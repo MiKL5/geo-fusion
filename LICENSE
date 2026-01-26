@@ -1,0 +1,28 @@
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+Copyright (C) 2026 [Mickael GAILLARD]
+
+This project: "Architecture de Conflation Géospatiale Hybride : Intégration Probabiliste
+de Données Web Dynamiques et du Référentiel OpenStreetMap" is free software:
+you can redistribute it and/or modify it under the terms of the GNU Affero
+General Public License as published by the Free Software Foundation, either
+version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see https://www.gnu.org/licenses/.
+
+NOTE SUR LA CONFORMITÉ ODbL ET RGPD (French Compliance Note)
+
+DONNÉES : Les données issues d'OpenStreetMap restent régies par la licence ODbL.
+Ce logiciel est conçu comme une "Base de Données Collective" pour maintenir
+une séparation juridique stricte entre l'architecture et les données.
+
+ÉTHIQUE : L'utilisation de ce code pour le Web Scraping doit se conformer
+aux directives éthiques, au respect du fichier robots.txt et aux principes
+de minimisation des données prévus par le RGPD (UE 2016/679).
