@@ -18,14 +18,9 @@
 
 </div>
 
-**GeoFusion** est une plateforme d'intelligence spatiale qui réconcilie 
-des données géographiques hétérogènes issues d'OpenStreetMap et du web 
-ouvert via des algorithmes probabilistes de record linkage (Fellegi-Sunter).
+**GeoFusion** est une plateforme d'intelligence spatiale qui réconcilie des données géographiques hétérogènes issues d'OpenStreetMap et du web ouvert via des algorithmes probabilistes de record linkage (Fellegi-Sunter).
 ## **🎯 Objectif**
-Construire un référentiel POI (Points d'Intérêt) unifié pour la France 
-en combinant la précision topologique d'OSM avec la richesse attributaire 
-de sources web (TripAdvisor, Pages Jaunes, etc.), tout en respectant 
-le RGPD et les directives européennes.
+Construire un référentiel POI (Points d'Intérêt) unifié pour la France en combinant la précision topologique d'OSM avec la richesse attributaire de sources web (TripAdvisor, Pages Jaunes, etc.), tout en respectant le RGPD et les directives européennes.
 ### **Architecture de Conflation Géospatiale Hybride : Intégration Probabiliste de Données Web Dynamiques et du Référentiel OpenStreetMap**
 GeoFusion est Architecture Avancée d'Intégration de Données Géospatiales Hétérogènes via Web Scraping Distribué, OpenStreetMap et Record Linkage Probabiliste - Application au Territoire Français
 
